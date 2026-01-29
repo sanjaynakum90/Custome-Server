@@ -11,6 +11,6 @@ server.listen(port, (err) => {
         console.log(err);
         return;
     }else{
-        console.log("server running on port",port);
+        console.log("server is running on port",port);
     }
 });
