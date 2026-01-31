@@ -1,9 +1,8 @@
-🚀 Custom Node.js Server Project
+Custom Server
 
 A simple custom HTTP server built using Node.js.
 This project demonstrates how to create and run a basic server without any frameworks like Express.
 
-🖥️ Screenshot
 <img width="1920" height="932" alt="image" src="https://github.com/user-attachments/assets/fb832b4e-a258-4a73-8b92-657513a04d8d" />
 
 📌 Server Output
@@ -44,5 +43,6 @@ node app.js
 2️⃣ Open in Browser
 
 http://localhost:5000
+
 
 
